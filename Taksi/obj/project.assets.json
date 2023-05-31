@@ -1382,19 +1382,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mabattal\\.nuget\\packages\\": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mabattal\\Desktop\\BEM Herşey\\4) BEM Proje-1\\29.05.2023 - 2\\Taksi\\Taksi.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Documents\\GitHub\\taxi\\Taksi\\Taksi.csproj",
       "projectName": "Taksi",
-      "projectPath": "C:\\Users\\mabattal\\Desktop\\BEM Herşey\\4) BEM Proje-1\\29.05.2023 - 2\\Taksi\\Taksi.csproj",
-      "packagesPath": "C:\\Users\\mabattal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mabattal\\Desktop\\BEM Herşey\\4) BEM Proje-1\\29.05.2023 - 2\\Taksi\\obj\\",
+      "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\taxi\\Taksi\\Taksi.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\Documents\\GitHub\\taxi\\Taksi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mabattal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1456,7 +1456,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -43,7 +43,7 @@ namespace Taksi
             firstName = command.Parameters["@FirstName"].Value.ToString();
             lastName = command.Parameters["@LastName"].Value.ToString();
             
-
+            //username ve password karşılığında firstname ve lastnam dönüyorsa giriş başarılı
             if (!string.IsNullOrEmpty(firstName) && !string.IsNullOrEmpty(lastName))
             {
                 MessageBox.Show("Giriş başarılı !");
